@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nChleTdP39zg8qPFzuuhvLVfRka2ZPy02W0TI95K2Kc8VBtSkGrqT+4msl40glViYcfCAFDl0oJwy2Atyc+tVg==",
+  "dgSpecHash": "paM8++GiuK9heHyGqSkS3p8vgDOI/YGn48qYlNGFpvkicxC8TVUbBRnD4f7K15z+bxIGLc8hg1Cqlqr5ilZvUg==",
   "success": true,
-  "projectFilePath": "D:\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Project\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isho\\.nuget\\packages\\system.speech\\10.0.1\\system.speech.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
