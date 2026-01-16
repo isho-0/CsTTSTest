@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "nChleTdP39zg8qPFzuuhvLVfRka2ZPy02W0TI95K2Kc8VBtSkGrqT+4msl40glViYcfCAFDl0oJwy2Atyc+tVg==",
+  "dgSpecHash": "xzrHUlYH7Xd5Ir257/ycJm7NVlKIxxOc0pBuPwEcvwRu228orTyL3dLzjTH4J/4IigX0Bi0LojW8WPeyyxh6/A==",
   "success": true,
-  "projectFilePath": "D:\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Project\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isho\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\isho\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\isho\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\isho\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\isho\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

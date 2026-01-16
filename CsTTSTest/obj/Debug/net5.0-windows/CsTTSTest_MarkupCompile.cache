@@ -1,5 +1,5 @@
 ﻿CsTTSTest
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 D:\Project\CsTTSTest\CsTTSTest\App.xaml
 11407045341
 
-51114457169
+3-1233169557
 194122679297
 MainWindow.xaml;
 
-True
+False
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj": {}
+    "D:\\Project\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj": {}
   },
   "projects": {
-    "D:\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj": {
+    "D:\\Project\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj",
+        "projectUniqueName": "D:\\Project\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj",
         "projectName": "CsTTSTest",
-        "projectPath": "D:\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj",
+        "projectPath": "D:\\Project\\CsTTSTest\\CsTTSTest\\CsTTSTest.csproj",
         "packagesPath": "C:\\Users\\isho\\.nuget\\packages\\",
-        "outputPath": "D:\\CsTTSTest\\CsTTSTest\\obj\\",
+        "outputPath": "D:\\Project\\CsTTSTest\\CsTTSTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Speech": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
